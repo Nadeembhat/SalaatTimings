@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "266153475437",
+    "firebase_url": "https://waqtesalaat.firebaseio.com",
+    "project_id": "waqtesalaat",
+    "storage_bucket": "waqtesalaat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266153475437:android:dadc3d63078199cb",
+        "android_client_info": {
+          "package_name": "waqtesalaat.nadeem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266153475437-1u9g97pojgt040fsarc1jleg8noibtun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBOdGuCH65tdt5ykZqsUnFImevLBGjDEs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
